@@ -19,9 +19,16 @@ namespace Clientes.Controllers
         }
 
         // GET: Clientes
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Cliente.ToListAsync());
+            var clientes = from m in _context.Cliente
+                 select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+    {
+            clientes = clientes.Where(s => s.Apellidos.Contains(searchString));
+    }
+            return View(await clientes.ToListAsync());
         }
 
         // GET: Clientes/Details/5
