@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elesp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elesp\\.nuget\\packages"
+    ]
+  }
+}
