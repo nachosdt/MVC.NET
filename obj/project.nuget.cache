@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OssH74y+SUUL+zCYIwaTMR/B8dEmLA+rBpTKjPpcd+9jvi29bW1r/pH4NFeCM7ac4TKlkl9haW/g6gk6WkadUA==",
+  "dgSpecHash": "DCp0jM6hzT2S4WysipSeN+J4pbmOan4C9zX6cYbBvp2hFUpDwm7K2EMKW5QuvYzCQWZIrvEgTjEhtdtGgT6hCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elesp\\Desktop\\C#\\Clientes\\Clientes.csproj",
+  "projectFilePath": "C:\\Users\\elesp\\Desktop\\C#\\MVC.NET\\Clientes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elesp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elesp\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

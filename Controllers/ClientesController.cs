@@ -22,12 +22,12 @@ namespace Clientes.Controllers
         public async Task<IActionResult> Index(string searchString)
         {
             var clientes = from m in _context.Cliente
-                 select m;
+                select m;
 
             if (!String.IsNullOrEmpty(searchString))
-    {
-            clientes = clientes.Where(s => s.Apellidos.Contains(searchString));
-    }
+            {
+                clientes = clientes.Where(s => s.Apellidos.Contains(searchString));
+            }
             return View(await clientes.ToListAsync());
         }
 

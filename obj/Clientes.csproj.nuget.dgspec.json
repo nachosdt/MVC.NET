@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elesp\\Desktop\\C#\\Clientes\\Clientes.csproj": {}
+    "C:\\Users\\elesp\\Desktop\\C#\\MVC.NET\\Clientes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elesp\\Desktop\\C#\\Clientes\\Clientes.csproj": {
+    "C:\\Users\\elesp\\Desktop\\C#\\MVC.NET\\Clientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elesp\\Desktop\\C#\\Clientes\\Clientes.csproj",
+        "projectUniqueName": "C:\\Users\\elesp\\Desktop\\C#\\MVC.NET\\Clientes.csproj",
         "projectName": "Clientes",
-        "projectPath": "C:\\Users\\elesp\\Desktop\\C#\\Clientes\\Clientes.csproj",
+        "projectPath": "C:\\Users\\elesp\\Desktop\\C#\\MVC.NET\\Clientes.csproj",
         "packagesPath": "C:\\Users\\elesp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elesp\\Desktop\\C#\\Clientes\\obj\\",
+        "outputPath": "C:\\Users\\elesp\\Desktop\\C#\\MVC.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elesp\\AppData\\Roaming\\NuGet\\NuGet.Config"
